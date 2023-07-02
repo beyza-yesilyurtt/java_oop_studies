@@ -1,0 +1,6 @@
+package oop;
+
+public class Memurlar extends Calisan {
+String departman;
+int mesai;
+}
